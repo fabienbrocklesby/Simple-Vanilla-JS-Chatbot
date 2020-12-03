@@ -60,7 +60,7 @@ const replies = [
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
   ["Haha!","Good one!"],
-  ["ok", "omg"]
+  ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord"]
 ]
 
 // Random for any other user input
