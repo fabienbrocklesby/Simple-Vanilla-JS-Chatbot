@@ -25,7 +25,8 @@ const prompts = [
   ["no","not sure","maybe","no thanks"],
   [""],
   ["haha","ha","lol","hehe","funny","joke","lmao"],
-  ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord"]
+  ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord"],
+  ["fuck", "shit", "bull shit", "crap", "i call bullshit", "fuck off", "fuck of", "fuk of", "fuck you", "you shithead", "shithead", "shit head"]
 ]
 
 // Possible responses, in corresponding order
@@ -61,6 +62,7 @@ const replies = [
   ["Please say something :("],
   ["Haha!","Good one!"],
   ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord", "lol", "lmao"]
+  ["dont swear!"]
 ]
 
 // Random for any other user input
