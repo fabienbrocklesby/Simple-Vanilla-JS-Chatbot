@@ -54,10 +54,7 @@ input {
 
 .messages {
 	display: flex;
-	flex-direction: column;
-	overflow: scroll;
 	background-color: white;
-
 	margin: 15px;
 	border-radius: 10px;
 }
