@@ -1,7 +1,7 @@
 // Options the user could type in
 const prompts = [
   ["hi", "hey", "hello", "good morning", "good afternoon"],
-  ["how are you", "how is life", "how are things", "how are you doing"],
+  ["how are you", "how is life", "how are you doing", "how are things"],
   ["what are you doing", "what is going on", "what is up"],
   ["how old are you"],
   ["who are you", "are you human", "are you bot", "are you human or bot"],
@@ -24,7 +24,8 @@ const prompts = [
   ["what", "why", "how", "where", "when"],
   ["no","not sure","maybe","no thanks"],
   [""],
-  ["haha","ha","lol","hehe","funny","joke"]
+  ["haha","ha","lol","hehe","funny","joke"],
+  ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord"]
 ]
 
 // Possible responses, in corresponding order
@@ -34,7 +35,8 @@ const replies = [
   [
     "Fine... how are you?",
     "Pretty well, how are you?",
-    "Fantastic, how are you?"
+    "Fantastic, how are you?",
+    "Im good thank you"
   ],
   [
     "Nothing much",
@@ -57,7 +59,8 @@ const replies = [
   ["Great question"],
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
-  ["Haha!","Good one!"]
+  ["Haha!","Good one!"],
+  ["ok", "omg"]
 ]
 
 // Random for any other user input
