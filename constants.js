@@ -24,7 +24,7 @@ const prompts = [
   ["what", "why", "how", "where", "when"],
   ["no","not sure","maybe","no thanks"],
   [""],
-  ["haha","ha","lol","hehe","funny","joke"],
+  ["haha","ha","lol","hehe","funny","joke","lmao"],
   ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord"]
 ]
 
@@ -60,7 +60,7 @@ const replies = [
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
   ["Haha!","Good one!"],
-  ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord"]
+  ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord", "lol", "lmao"]
 ]
 
 // Random for any other user input
