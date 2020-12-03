@@ -56,9 +56,6 @@ input {
 	display: flex;
 	flex-direction: column;
 	overflow: scroll;
-    display:table;
-    width:100%;
-    table-layout:fixed;
 	background-color: white;
 
 	margin: 15px;
