@@ -5,26 +5,21 @@
 	<title>Chatbot</title>
 	<link rel="icon" href="bot.png" />
 	<link rel="stylesheet" href="style.css" />
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 
 <body>
 
-	<nav class="navbar navbar-light bg-light">
-		<span class="navbar-brand mb-0 h1">Chatbot</span>
-	</nav>
-
 	<div id="container" class="container">
 
+		<div id="chat" class="chat">
 			<div id="messages" class="messages"></div>
-			
+			<input id="input" type="text" placeholder="Say something..." autocomplete="off" autofocus="true" />
 
+		</div>
+		<img src="bot.png" alt="Robot cartoon" height="500vh">
 
 	</div>
 
-	<div class="footer">
-		<input id="input" type="text" placeholder="Say something..." autocomplete="off" autofocus="true" />
-	  </div>
 	
 </body>
 <script type="text/javascript" src="index.js" ></script>
