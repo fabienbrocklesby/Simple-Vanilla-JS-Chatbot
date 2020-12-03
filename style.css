@@ -53,6 +53,7 @@ input {
 }
 
 .messages {
+	width:200%;
 	display: flex;
 	background-color: white;
 	margin: 15px;
