@@ -62,7 +62,7 @@ const replies = [
   ["Please say something :("],
   ["Haha!","Good one!"],
   ["omg", "oml", "oh god", "ohh my god", "oh my god", "o my god", "oh lord", "o god", "o lord", "oh my lord", "ohh my lord", "o my lord", "lol", "lmao"]
-  ["dont swear!"]
+  ["dont swear", "Dont Swear To ME!"]
 ]
 
 // Random for any other user input
