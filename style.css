@@ -52,15 +52,12 @@ input {
 }
 
 .messages {
-	display: flex;
-	flex-direction: column;
-	overflow: scroll;
+	width: 50%;
 	height: 90%;
-	width: 100%;
+	padding: 10px;
 	background-color: white;
 	padding: 15px;
-	margin: 15px;
-	border-radius: 10px;
+	margin: auto;
 }
 
 #bot {
